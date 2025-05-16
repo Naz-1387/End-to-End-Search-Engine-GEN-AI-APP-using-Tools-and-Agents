@@ -20,3 +20,4 @@ validators==0.28.1
 numexpr
 huggingface_hub
 streamlit
+duckduckgo-search
