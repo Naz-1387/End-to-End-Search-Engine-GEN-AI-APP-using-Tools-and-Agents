@@ -3,18 +3,17 @@ python-dotenv
 ipykernel
 langchain-community
 pypdf
-bs4
+beautifulsoup4        # ✅ correct package name instead of 'bs4'
 arxiv
 pymupdf
 wikipedia
 langchain-text-splitters
 langchain-openai
-sentence_transformers
-langchain_huggingface
+sentence-transformers  # ✅ correct with dash
+langchain-huggingface
 pandas
 openai
 langchain-groq
-pymupdf
 mysql-connector-python
 SQLAlchemy
 validators==0.28.1
